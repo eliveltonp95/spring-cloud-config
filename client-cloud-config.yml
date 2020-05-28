@@ -8,3 +8,7 @@ spring:
     show-sql: true
     hibernate:
       ddl-auto: update
+history:
+  db:
+    max-record: 10
+    max-validate: 3
