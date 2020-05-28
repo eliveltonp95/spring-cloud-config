@@ -11,4 +11,4 @@ spring:
 history:
   db:
     max-record: 10
-    max-validate: 5
+    max-validate: 3
