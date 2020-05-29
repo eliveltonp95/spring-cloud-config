@@ -1,4 +1,0 @@
-history:
-  db:
-    max-record: 5
-    max-validate: 3
